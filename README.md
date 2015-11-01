@@ -7,7 +7,7 @@ TP Algoritmos III | FIUBA
 
 ![Alt text](https://github.com/Desuque/AlgoCity/blob/master/screen/screen1.png?raw=true)
 
-![Alt text](/sreen/screen2.png?raw=true "Optional Title")
+![Alt text](https://github.com/Desuque/AlgoCity/blob/master/screen/screen2.png?raw=true)
 
-![Alt text](/sreen/screen3.png?raw=true "Optional Title")
+![Alt text](https://github.com/Desuque/AlgoCity/blob/master/screen/screen3.png?raw=true)
 
