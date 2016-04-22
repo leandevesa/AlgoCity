@@ -35,7 +35,7 @@ public class JuegoControlador {
 		try {
 			construirMapa();
 		} catch (Exception e) {
-			
+			//TODO: Throw new CarolosException();
 		}
 		jugador = new Jugador(); //Posibilidad para iniciar otra partida sin cerrar el juego
 		anioActual = 2000;
